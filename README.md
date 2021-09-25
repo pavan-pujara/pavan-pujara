@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan-pujara
 - 👀 I’m interested in Field work expierience
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and ReactJS
 - 💞️ I’m looking to work on Web Development Internship
 - 📫 How to reach me pavanpujara41@gmil.com or 9082292877
 
