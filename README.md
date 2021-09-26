@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS and ReactJS
 - 💞️ I’m looking to work on Web Development Internship
 - 📫 How to reach me pavanpujara41@gmil.com or 9082292877
-- You can also find my project with HTML, CSS, JS, Firebase in Hospital Management System where me and my group creatd a whole website to digitalize everything in the hospitl.
+- You can also find my project with HTML, CSS, JS, Firebase in organization Hospital Management System where me and my group creatd a whole website to digitalize everything in the hospital.
 
 <!---
 
